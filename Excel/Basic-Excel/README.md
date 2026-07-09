@@ -27,14 +27,17 @@ The dataset includes:
 
 ## 📸 Screenshots
 
+
+### Chart
+![Chart](Chart.png)
+
+
 ### Dataset
 ![Dataset](Dataset.png)
 
 ### Functions
 ![Functions](Functions.png)
 
-### Chart
-![Chart](Chart.png)
 
 ## 📈 What I Learned
 - How to clean text using **PROPER()**

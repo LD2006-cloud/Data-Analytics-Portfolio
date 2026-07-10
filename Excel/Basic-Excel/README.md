@@ -25,14 +25,15 @@ The dataset includes:
 - Salary
 - Experience (Years)
 
-## 📸 Screenshots
-### 📈 Chart
+## 📸 Project Preview
+
+### 📈 Final Chart
 ![Chart](images/Chart.png)
 
-### 📋 Dataset
+### 📋 Employee Dataset
 ![Dataset](images/Dataset.png)
 
-### 🧮 Functions
+### 🧮 Excel Functions
 ![Functions](images/Functions.png)
 
 ## 📈 What I Learned

@@ -141,6 +141,9 @@ When a slicer is selected:
 
 ![Slicers](images/Slicers.png)
 
+### Select Data
+![Slicers-filter](images/Slicers-filter.png)
+
 ---
 
 # 🛠 Skills Used

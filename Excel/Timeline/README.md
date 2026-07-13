@@ -34,7 +34,7 @@ The main objectives of this project are:
 
 ## 1. Dataset
 
-This screenshot shows the original dataset used to create the Excel timeline. It contains meeting records including dates, departments, issues found, actions taken, and impact levels.
+This screenshot shows the original dataset used to create the Excel timeline. It contains meeting records including dates, departments, issues found, actions taken.
 
 ![Dataset](images/Dataset.png)
 

@@ -117,6 +117,29 @@ You can also analyse the sales performance of individual sales people.
 - Pivot Tables make it easy to compare sales by Product, Region, and Sales Person.
 - Pivot Charts allow the analysis to update instantly when filters are changed.
 
+---
+
+# 🎛 Interactive Slicers
+
+To make the sales analysis more interactive, I added **Excel Slicers** connected to the Pivot Table and Pivot Chart.
+
+Slicers provide a simple way to filter data with a single click. Instead of opening filter menus, users can instantly explore different views of the sales data.
+
+The slicers in this project allow users to filter by:
+
+- Product
+- Region
+- Sales Person
+
+When a slicer is selected:
+
+- The Pivot Table updates automatically.
+- The Pivot Chart refreshes instantly.
+- Only the selected data is displayed.
+
+### Slicers Preview
+
+![Slicers](images/Slicers.png)
 
 ---
 
@@ -130,6 +153,7 @@ You can also analyse the sales performance of individual sales people.
 - Business Reporting
 
 ---
+
 
 # 👩‍💻 Created By
 

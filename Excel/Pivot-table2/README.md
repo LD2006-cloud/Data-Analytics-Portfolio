@@ -43,7 +43,7 @@ Users can select a **Department**, **Manager**, **Task Status**, **Project**, or
 
 The dashboard automatically recalculates salary totals and displays only the matching records, making it easier to analyse employee salaries from different perspectives without changing the original dataset.
 
-![Filtered Dashboard](images/Choose-slicers.png)
+![Filtered Dashboard](images/Choose-Slicers.png)
 
 ---
 

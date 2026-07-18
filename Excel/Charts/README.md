@@ -26,7 +26,7 @@ When the salary values are modified, the chart updates automatically and highlig
 
 ### Preview
 
-![Modified Salary Chart](images/Modify-Chart.png)
+![Modify-Chart](images/Modify-Chart.png)
 
 ---
 

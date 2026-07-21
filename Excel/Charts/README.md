@@ -89,7 +89,7 @@ To achieve this design, helper columns are used to separate the completed and re
 
 ### Preview
 
-![Performance Cell-Chart](images/Bar-Chart.png)
+![Performance Cell-Chart](images/Cell-Chart.png)
 ---
 
 ## 👤 Created By

@@ -39,6 +39,32 @@ When the salary values are modified, the chart updates automatically and highlig
 - Custom Chart Formatting
 ---
 
+---
+
+# 📊 Performance Progress Chart
+
+## 📌 Project Overview
+
+This project also includes a **Performance Progress Chart** created in Microsoft Excel using a **Stacked Bar Chart**.
+
+The chart visualises each employee's performance percentage by combining multiple helper columns to create a clean progress-bar effect. Every bar displays the employee's performance level, making it easy to compare results across the entire team.
+
+Unlike a traditional bar chart, this design provides a modern dashboard-style appearance while keeping the information clear and easy to understand.
+
+### ✨ Features
+
+- 📊 Built with a Stacked Bar Chart.
+- 📈 Displays employee performance as percentages.
+- 🎯 Progress-bar style design using helper columns.
+- 📋 Data labels show the exact performance value.
+- 💼 Ideal for HR dashboards, KPI reports, and performance tracking.
+
+### Preview
+
+![Performance Progress Chart](images/Bar-Chart.png)
+
+--- 
+
 ## 📊 Performance Cell-Chart (%)
 
 This project also includes a **Performance Cell-Chart (%)**, a visual progress indicator created using a **Stacked Bar Chart** and helper columns in Microsoft Excel.

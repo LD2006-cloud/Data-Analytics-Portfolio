@@ -37,7 +37,33 @@ When the salary values are modified, the chart updates automatically and highlig
 - Helper Columns
 - Conditional Highlighting
 - Custom Chart Formatting
+---
 
+## 📊 Performance Cell-Chart (%)
+
+This project also includes a **Performance Cell-Chart (%)**, a visual progress indicator created using a **Stacked Bar Chart** and helper columns in Microsoft Excel.
+
+The chart converts each employee's performance percentage into a horizontal progress bar, making it easier to compare individual performance levels at a glance. Each bar displays the exact percentage while the remaining space represents the difference up to 100%, creating a clean and professional KPI-style visual.
+
+To achieve this design, helper columns are used to separate the completed and remaining portions of each progress bar. Custom formatting, colours, and data labels are then applied to produce a modern dashboard appearance.
+
+### ✨ Features
+
+- 📊 Built with a Stacked Bar Chart.
+- 📈 Converts percentage values into visual progress bars.
+- 🎯 Displays the exact performance percentage for every employee.
+- 🎨 Uses helper columns to create the filled and remaining sections.
+- 💼 Perfect for KPI dashboards, HR reports, and performance monitoring.
+
+### How It Works
+
+- **Performance Level (%)** stores the original employee performance values.
+- **Performance Cell-Chart (%)** transforms those values into a visual progress bar using a stacked chart.
+- Helper columns calculate the completed and remaining portions so every bar always represents **100%**.
+
+### Preview
+
+![Performance Cell-Chart](images/Bar-Chart.png)
 ---
 
 ## 👤 Created By

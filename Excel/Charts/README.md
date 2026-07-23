@@ -92,6 +92,54 @@ To achieve this design, helper columns are used to separate the completed and re
 ![Performance Cell-Chart](images/Cell-Chart.png)
 ---
 
+# 📈 Completed Percentage by Year
+
+This project demonstrates how to create a **Line Chart** in Microsoft Excel to visualize yearly percentage trends. The chart uses the **Year** column as the X-axis and the **Percentage** column as the Y-axis, making it easy to identify changes, trends, and performance over time.
+
+---
+
+## 📂 Dataset
+
+The dataset contains four columns:
+
+- **Year** – Represents the years in chronological order.
+- **Department** – Identifies the department associated with each record.
+- **Status** – Indicates the project status (Completed, In Progress, or Pending).
+- **Percentage** – Represents the completion percentage for each year.
+
+### Dataset & Chart
+
+![Dataset and Line Chart](images/Line-chart.png)
+
+---
+
+## 📊 Line Chart
+
+The line chart displays the yearly completion percentage from **2015 to 2026**. It provides a clear visualization of how the percentage values change over time, making it easier to compare annual performance and identify increases or decreases.
+
+### Chart Features
+
+- **Chart Type:** Line Chart
+- **X-Axis:** Year
+- **Y-Axis:** Percentage
+- **Chart Title:** Completed Percentage by Year
+- **Data Labels:** Display the percentage value for each year.
+- **Smoothed Line:** Highlights the overall trend across the years.
+
+---
+
+## 🎯 Purpose
+
+This project was created to practise:
+
+- Creating professional Line Charts in Microsoft Excel.
+- Organizing and formatting datasets.
+- Visualizing yearly trends using percentage values.
+- Improving Excel data analysis and chart customization skills.
+
+---
+
+
 ## 👤 Created By
 
 **Ladan Abdi**

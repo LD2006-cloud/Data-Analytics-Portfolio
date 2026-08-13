@@ -32,7 +32,7 @@ The data was organised into an Excel Table, making it easier to analyse and conn
 
 ### Preview
 
-`images/Sales-Data.png`
+![Sales of Data](images/Sales-Data.png)
 
 ---
 
@@ -59,7 +59,7 @@ The dashboard also uses interactive **Slicers** and **Timeline Filters**, allowi
 
 ### Preview
 
-`images/Sales-Dashboard.png`
+![The Sales Dashboard](images/Sales-Dashboard.png)
 
 ---
 

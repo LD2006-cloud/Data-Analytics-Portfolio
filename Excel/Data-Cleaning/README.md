@@ -26,7 +26,9 @@ The raw dataset contained:
 - Extra spaces in names
 - Inconsistent location names
 - Blank Manager cells
+
 ![Dataset](images/Dataset.png)
+
 ---
 ### After Cleaning
 

@@ -16,17 +16,7 @@ The cleaning process focused on removing duplicates, separating names, standardi
 | 🔵 Dark Blue | First Name & Last Name — Flash Fill |
 | ◻️ Light Gray | Manager — Go To Special / Blanks |
 | 🔷 Light Blue | Location — Find & Replace |
-
 ---
-
-## 📸 Data Cleaning
-
-![Data Cleaning](images/Data-Cleaning.png)
-
----
-
-# Before vs After
-
 ### Before Cleaning
 
 The raw dataset contained:
@@ -36,7 +26,8 @@ The raw dataset contained:
 - Extra spaces in names
 - Inconsistent location names
 - Blank Manager cells
-
+![Dataset](images/Dataset.png)
+---
 ### After Cleaning
 
 The dataset was transformed into a more structured and consistent format with:
@@ -47,6 +38,8 @@ The dataset was transformed into a more structured and consistent format with:
 - Location names standardised
 - Blank Manager cells identified
 - Data organised for further analysis
+
+![Data Cleaning](images/Data-Cleaning.png)
 
 ---
 

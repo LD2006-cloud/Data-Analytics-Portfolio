@@ -25,6 +25,9 @@ Each row represents an employee and includes the following information:
 
 ![Employee Task Dataset](images/Dataset.png)
 
+
+---
+
 ### 🎯 Business Questions
 
 The dataset was created to answer questions such as:

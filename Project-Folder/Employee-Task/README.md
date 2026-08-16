@@ -41,7 +41,7 @@ The dataset was created to answer questions such as:
 
 ## 📊 Dashboard
 
-![Employee Task Dashboard](images/Employee-Dashboard.png)
+![Employee Task Dashboard](images/Employee Dashboard.png)
 
 ---
 

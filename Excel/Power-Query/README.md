@@ -183,7 +183,7 @@ For example, I can analyse:
 
 The Pivot Chart was created using the cleaned data produced by Power Query.
 
-![Pivot Chart](images/Pivot-Chart.png)
+![Pivot Chart](images/Pivot-chart.png)
 
 ---
 
